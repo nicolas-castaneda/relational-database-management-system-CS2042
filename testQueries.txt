@@ -1,0 +1,7 @@
+DROP TABLE tablename;
+DELETE FROM tablename WHERE id = value;
+CREATE TABLE tablename(id char(30) primary key);
+INSERT INTO tablename VALUES ('heider');
+INSERT INTO tablename FROM 'csv_path';
+SELECT * FROM tablename;
+SELECT id from tablename where id = 'heider';
