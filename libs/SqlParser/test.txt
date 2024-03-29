@@ -1,0 +1,2 @@
+INSERT INTO table_name_example Values ('gato', 0);
+delete from table_name where id = 2 and column_id = 'unique';
